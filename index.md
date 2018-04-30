@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Hi
 
-You can use the [editor on GitHub](https://github.com/d3giigii/d3giigii.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is a page to showcase my public projects and organizations (which have more projects). Feel free to bookmark this page for future reference, or view it on [GitHub.](https://github.com/d3giigii/d3giigii.github.io)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Projects
 
-### Markdown
+## My First Neural Network
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+First neural network I built using Python with Jupyter Notebook. Designed to receive a handwritten image of 0-9 as input, determine the digit the image represents, and return that digit.
 
-```markdown
-Syntax highlighted code block
+Find this project [here.](https://github.com/d3giigii/myfirst_neuralnetwork)
 
-# Header 1
-## Header 2
-### Header 3
+## Organizations
 
-- Bulleted
-- List
+## Logan-Hammond
 
-1. Numbered
-2. List
+A place where I keep my projects related to educational and professional work to display. No fun allowed :/
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/d3giigii/d3giigii.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Find this organization [here.](https://github.com/Logan-Hammond)
