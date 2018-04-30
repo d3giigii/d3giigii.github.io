@@ -10,7 +10,7 @@ First neural network I built using Python with Jupyter Notebook. Designed to rec
 
 Find this project [here.](https://github.com/d3giigii/myfirst_neuralnetwork)
 
-## Organizations
+# Organizations
 
 ## Logan-Hammond
 
