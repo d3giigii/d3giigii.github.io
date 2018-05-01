@@ -20,6 +20,6 @@ Find this organization [here.](https://github.com/Logan-Hammond)
 
 # Contact
 
-You can contact me via email at [lhammond997@gmail.com](lhammond997@gmail.com) (preferred) or alternatively at [hamm32637@email.ccbcmd.edu](hamm32637@email.ccbcmd.edu).
+You can contact me via email at lhammond997@gmail.com (preferred) or alternatively at hamm32637@email.ccbcmd.edu
 
 For **NON-ACADEMIC OR PROFESSIONAL** matters you can get in touch with me more quickly through Discord. DM me at d3giigii#0215
