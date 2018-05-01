@@ -1,6 +1,6 @@
 # Hi
 
-This is a page to showcase my public projects and organizations (which have more projects). Feel free to bookmark this page for future reference, or view it on [GitHub.](https://github.com/d3giigii/d3giigii.github.io)
+I'm Logan, or d3giigii ("Dee three g g") online. I like to program, play games, and do math at 2 A.M. on my whiteboard on the weekends. Here you'll find public projecs that I have created or contributed to; most of it will be in C++, Java, Python, or BASH.
 
 # Projects
 
@@ -14,6 +14,11 @@ Find this project [here.](https://github.com/d3giigii/myfirst_neuralnetwork)
 
 ## Logan-Hammond
 
-A place where I keep my projects related to educational and professional work to display. No fun allowed :/
+A place where I keep my projects for academic and professional work. No fun allowed :/
 
 Find this organization [here.](https://github.com/Logan-Hammond)
+
+# Contact
+
+You can contact me via email at lhammond997@gmail.com (preferred) or alternatively at hamm32637@email.ccbcmd.edu
+For **NON-ACADEMIC OR PROFESSIONAL** matters you can get in touch with me more quickly through Discord. DM me at d3giigii#0215
