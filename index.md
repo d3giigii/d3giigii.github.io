@@ -1,6 +1,6 @@
 # Hi
 
-I'm Logan, or d3giigii ("Dee three g g") online. I like to program, play games, and do math at 2 A.M. on my whiteboard on the weekends. Here you'll find public projecs that I have created or contributed to; most of it will be in C++, Java, Python, or BASH.
+Hi. I'm Logan and I like to program, play games, and do math on my whiteboard on the weekends. Here you'll find public projecs that I have created or contributed to; most of it will be in C++, Java, Python, or BASH.
 
 # Projects
 
@@ -14,7 +14,7 @@ Find this project [here.](https://github.com/d3giigii/myfirst_neuralnetwork)
 
 ## Logan-Hammond
 
-A place where I keep my projects for academic and professional work. No fun allowed :/
+A place where I keep my projects for academic and professional work. 
 
 Find this organization [here.](https://github.com/Logan-Hammond)
 
