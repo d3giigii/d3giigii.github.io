@@ -1,2 +1,2 @@
 # d3giigii.github.io
-Site to showcase my public projects hosted on GitHub.
+Github.io page showcasing my public projects hosted on GitHub for personal and professional view.
