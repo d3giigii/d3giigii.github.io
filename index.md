@@ -1,12 +1,21 @@
 # Hi
 
-Hi. I'm Logan and I like to program, play games, and do math on my whiteboard on the weekends. Here you'll find public projecs that I have created or contributed to; most of it will be in C++, Java, Python, or BASH.
+Hi. I'm Logan and I like to program, play games, and do math on my whiteboard on the weekends. Here you'll find some of the public projecs that I have created or contributed to; most of it will be in C++, Java, Python, or BASH.
 
 # Projects
 
-## My First Neural Network
-
+## Neural Network
 First neural network I built using Python with Jupyter Notebook. Designed to receive a handwritten image of 0-9 as input, determine the digit the image represents, and return that digit.
+
+Find this project [here.](https://github.com/d3giigii/myfirst_neuralnetwork)
+
+## Prog-o-meter
+Collaboratively made application that tracks personal progress during a “100DaysOf” challenge through a GUI able to save multiple users.
+
+Find this project [here.](https://github.com/d3giigii/myfirst_neuralnetwork)
+
+## HS Dust Estimator
+Command line interface tool that calculates average value of card packs given average or worst luck conditions for the collectable card game Hearthstone.
 
 Find this project [here.](https://github.com/d3giigii/myfirst_neuralnetwork)
 
