@@ -12,12 +12,12 @@ Find this project [here.](https://github.com/d3giigii/myfirst_neuralnetwork)
 ## Prog-o-meter
 Collaboratively made application that tracks personal progress during a “100DaysOf” challenge through a GUI able to save multiple users.
 
-Find this project [here.](https://github.com/d3giigii/myfirst_neuralnetwork)
+Find this project [here.](https://github.com/d3giigii/prog-o-meter)
 
 ## HS Dust Estimator
 Command line interface tool that calculates average value of card packs given average or worst luck conditions for the collectable card game Hearthstone.
 
-Find this project [here.](https://github.com/d3giigii/myfirst_neuralnetwork)
+Find this project [here.](https://github.com/d3giigii/HS-Dust-Estimator)
 
 # Organizations
 
